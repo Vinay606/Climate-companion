@@ -1,2 +1,3 @@
 # WeatherApplication
-Its a simple waether apllication that updates the weather apllication of a desired city that you want to know.
+It is a simple weather application that updates the weather of a desired city.
+Link: https://vinay606.github.io/Weather-app/
